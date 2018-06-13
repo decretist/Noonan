@@ -1,0 +1,8 @@
+*.jpg
+!Gratian.jpg
+.DS_Store
+.Rhistory
+stylo_config.txt
+table_with_frequencies.txt
+wordlist.txt
+
